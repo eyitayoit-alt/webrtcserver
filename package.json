@@ -1,0 +1,23 @@
+{
+  "name": "videoserver",
+  "version": "1.0.0",
+  "description": "A socket IO signalling server for RTC video chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WebRTC",
+    "NodeJS",
+    "Express",
+    "React"
+  ],
+  "author": "eyitayoit",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
